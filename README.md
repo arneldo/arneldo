@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arneldo
 - 👀 I’m interested in Machine Learning and Image processing.
 - 🌱 I’m currently touching up on my Java knowledge (had spent some time not using Java)
-- 💞️ I’m looking to collaborate on anything Machine learning related.
+<!-- - 💞️ I’m looking to collaborate on anything Machine learning related. -->
 <!-- - 📫 How to reach me ...
  -->
 <!---
